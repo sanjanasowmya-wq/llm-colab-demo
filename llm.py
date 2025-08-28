@@ -1,6 +1,5 @@
 
-print("pip install langchain langchain-google-genai langchain-tavily tavily-python
-       pip install langgraph
+print("
        import os
        from tavily import TavilyClient
 
